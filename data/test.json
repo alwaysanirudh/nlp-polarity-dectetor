@@ -1,0 +1,23 @@
+[
+    {"text": "The Above mentioned details are correct", "label": "positive"},
+    {"text": "We confirm that the candidate passed out from our institute", "label": "positive"},
+    {"text": "The candidate (Roll No) is correct", "label": "positive"},
+    {"text": "Candidate was a bonafide student and passed out from our institute from (2010 -2012)", "label": "positive"},
+    {"text": "Candidate with so and so degree was student from our institute", "label": "positive"},
+    {"text": "Candidate is not genuine", "label": "negative"},
+    {"text": "Document attached is forged", "label": "negative"},
+    {"text": "Document is not genuine", "label": "negative"},
+    {"text": "Details with enrollment number 333123 not found in our records", "label": "negative"},
+    {"text": "The candidate is a good candidate and you can go ahead with assigned post", "label": "positive"},
+    {"text": "The details mentioned are correct", "label": "positive"},
+    {"text": "We verify the date of joining, Leaving and designation", "label": "positive"},
+    {"text": "Please provide correct employee code", "label": "negative"},
+    {"text": "There is no candidate by this name", "label": "negative"},
+    {"text": "Employee not found in our system", "label": "negative"},
+    {"text": "Candidate is not genuine", "label": "negative"},
+    {"text": "Document attached is forged", "label": "negative"},
+    {"text": "Document is not genuine", "label": "negative"},
+    {"text": "Attached service certificate is correct.", "label": "positive"},
+    {"text": "Name - Rakesh Sharma, Employee Id - 2903, Date of Joining - 20 OCt 2013, Date of Leaving - 21 Nov 2014", "label": "positive"},
+    {"text": "OK", "label": "positive"}
+]
